@@ -1,0 +1,18 @@
+{
+  "title": "TypeScript: Fundamentos",
+  "slug": "typescript-fundamentals",
+  "cardDescription": "TypeScript é uma linguagem de programação fortemente tipada que se baseia em JavaScript adicionando tipos estáticos opcionais.",
+  "category": [
+    "Nivelamento"
+  ],
+  "sequence": 1,
+  "image": "/assets/images/themes/typescript.png",
+  "duration": "4 horas",
+  "difficulty": "beginner",
+  "created": "2025-09-23",
+  "updated": "2025-09-23",
+  "id": "cb096b44-4539-4dfa-89e8-011b5cc91479",
+  "description": "# TypeScript: Fundamentos\n\n**TypeScript** é uma linguagem de programação de código aberto desenvolvida pela Microsoft, que se baseia em JavaScript e adiciona tipagem estática opcional. Ao contrário de JavaScript, que é fracamente tipado, TypeScript permite as pessoas desenvolvedoras definir tipos para variáveis, parâmetros de função e retornos de função, o que ajuda a detectar erros em tempo de compilação, em vez de tempo de execução.\n\n## Por que TypeScript?\n\nTypeScript oferece várias vantagens significativas para o desenvolvimento de aplicações JavaScript:\n\n### Detecção de Erros em Tempo de Desenvolvimento\n\nUma das principais vantagens do TypeScript é sua capacidade de detectar erros durante o desenvolvimento, antes mesmo do código ser executado. Isso é possível graças ao sistema de tipos estáticos que verifica a consistência dos dados e operações.\n\n### Melhor Experiência de Desenvolvimento\n\nO TypeScript fornece recursos avançados de autocompletar, refatoração e navegação de código em editores modernos como Visual Studio Code. Isso resulta em maior produtividade e menos erros durante o desenvolvimento.\n\n### Compatibilidade com JavaScript\n\nTodo código JavaScript válido é também código TypeScript válido. Isso significa que você pode migrar gradualmente projetos existentes para TypeScript, adicionando tipos conforme necessário.\n\n## O que Você Aprenderá\n\nNeste curso, você dominará os conceitos fundamentais do TypeScript, incluindo:\n\n- Configuração do ambiente de desenvolvimento\n- Tipos básicos e avançados\n- Interfaces e classes\n- Generics e tipos utilitários\n- Integração com frameworks populares\n\nAo final deste curso, você estará preparado para desenvolver aplicações robustas e escaláveis usando TypeScript.\n",
+  "folder": "01-typescript-fundamentals",
+  "type": "theme"
+}
